@@ -1,0 +1,139 @@
+
+#projects {
+	margin-top: 150px;
+}
+#projects h1 {
+	font-size: 30px;
+	font-weight: bold;
+	margin-bottom: 60px;
+}
+#projects a {
+	color: #2867db !important;
+	text-decoration: none;
+}
+#projects img {
+	transition-duration: 4.5s;
+    cursor: pointer;
+}
+#projects .img-duffla img:hover {
+	transform: translate(0px, -425px);
+	transition-duration: 4.2s;
+	cursor: pointer;
+}
+#projects .img-jrinwest img:hover {
+	transform: translate(0px, -221px);
+	transition-duration: 2.2s;
+	cursor: pointer;
+}
+#projects .img-kosztorysowanie img:hover {
+    transform: translate(0px, -890px);
+	transition-duration: 8.9s;
+	cursor: pointer;
+}
+#projects .img-spaceis img:hover {
+	transform: translate(0px, -635px);
+	transition-duration: 6.3s;
+	cursor: pointer;
+}
+#projects .img-streammania img:hover {
+	transform: translate(0px, -265px);
+	transition-duration: 2.6s;
+	cursor: pointer;
+}
+#projects .img-behero img:hover {
+    transform: translate(0px, -1155px);
+	transition-duration: 11.5s;
+	cursor: pointer;
+}
+#projects .img-konfigurowanie img:hover {
+	transform: translate(0px, -0px);
+	transition-duration: 0s;
+	cursor: pointer;
+}
+#projects .img-payments img:hover {
+	transform: translate(0px, -0px);
+	transition-duration: 0s;
+	cursor: pointer;
+}
+#projects .img-zeushc img:hover {
+	transform: translate(0px, -618px);
+	transition-duration: 6.1s;
+	cursor: pointer;
+}
+#projects .img-jajkownica img:hover {
+	transform: translate(0px, -454px);
+	transition-duration: 4.5s;
+	cursor: pointer;
+}
+#projects .img-panel img:hover {
+	transform: translate(0px, -131px);
+	transition-duration: 1.3s;
+	cursor: pointer;
+}
+#projects .img-template img:hover {
+	transform: translate(0px, -644px);
+	transition-duration: 6.4s;
+	cursor: pointer;
+}
+#projects .img-nevios img:hover {
+	transform: translate(0px, -698px);
+	transition-duration: 6.9s;
+	cursor: pointer;
+}
+#projects .img-qbazz img:hover {
+	transform: translate(0px, -406px);
+	transition-duration: 4s;
+	cursor: pointer;
+}	
+#projects img {
+	border-radius: 15px 15px 0px 0px;
+}
+#projects .img-craftstar img:hover {
+	transform: translate(0px, -442px);
+	transition-duration: 4.9s;
+	cursor: pointer;
+}
+#projects .img-tabmc img:hover {
+	transform: translate(0px, -592px);
+	transition-duration: 5.9s;
+	cursor: pointer;
+}
+#projects .img-jeezitmc img:hover {
+	transform: translate(0px, -322px);
+	transition-duration: 3.9s;
+	cursor: pointer;
+}
+#projects .project-card {
+	margin-bottom: 10%;
+	border-radius: 0px 0px 15px 15px;
+	background-color: var(--background-color);
+	padding: 5%;
+	padding-left: 8%;
+    padding-right: 8%;
+	filter: drop-shadow(0px 10px 20px var(--drop-shadow));
+	font-size: 15px;
+	font-weight: 300;
+	transition-duration: 1.5s;
+}
+#projects .project-card p {
+	margin-bottom: 0px;
+	margin-top: 5px;
+}
+#projects .project-btn {
+    border-radius: 50px;
+	background: linear-gradient(-45deg, #1f7aaf , #3d74eb);
+    border: 0px;
+    color: #fff;
+    overflow: hidden;
+    padding: 5px 30px;
+    font-size: 14px;
+    float: right;
+	transition: 1s;
+}
+#projects .project-btn:hover {
+	filter: drop-shadow(0px 0px 10px #a863e59f);
+	transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+	color: #fff;
+}
